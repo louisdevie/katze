@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": ".",
+			"name": "Project root",
+			"folder_exclude_patterns": ["*"],
+		},
+		{
+			"path": "src",
+			"name": "Source code",
+		},
+		{
+			"path": "include",
+			"name": "Headers",
+		},
+		{
+			"path": "tests",
+			"name": "Unit tests",
+		},
+	]
+}
